@@ -1,0 +1,8 @@
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\NetworkOperations\bin\Debug\netstandard2.0\lnets_NetworkOperations.deps.json
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\NetworkOperations\bin\Debug\netstandard2.0\lnets_NetworkOperations.dll
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\NetworkOperations\bin\Debug\netstandard2.0\lnets_NetworkOperations.pdb
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\NetworkOperations\obj\Debug\netstandard2.0\lnets_NetworkOperations.csproj.CoreCompileInputs.cache
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\NetworkOperations\obj\Debug\netstandard2.0\lnets_NetworkOperations.AssemblyInfoInputs.cache
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\NetworkOperations\obj\Debug\netstandard2.0\lnets_NetworkOperations.AssemblyInfo.cs
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\NetworkOperations\obj\Debug\netstandard2.0\lnets_NetworkOperations.dll
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\NetworkOperations\obj\Debug\netstandard2.0\lnets_NetworkOperations.pdb

@@ -1,0 +1,58 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "lnets/1.0.0": {
+        "dependencies": {
+          "lnets_CommandOperation": "1.0.0",
+          "lnets_NetworkOperations": "1.0.0",
+          "lnets_OutputOperations": "1.0.0"
+        },
+        "runtime": {
+          "lnets.dll": {}
+        }
+      },
+      "lnets_CommandOperation/1.0.0": {
+        "runtime": {
+          "lnets_CommandOperation.dll": {}
+        }
+      },
+      "lnets_NetworkOperations/1.0.0": {
+        "runtime": {
+          "lnets_NetworkOperations.dll": {}
+        }
+      },
+      "lnets_OutputOperations/1.0.0": {
+        "runtime": {
+          "lnets_OutputOperations.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "lnets/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lnets_CommandOperation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lnets_NetworkOperations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "lnets_OutputOperations/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

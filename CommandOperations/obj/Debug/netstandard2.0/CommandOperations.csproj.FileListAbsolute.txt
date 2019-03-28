@@ -1,0 +1,9 @@
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\CommandOperations\bin\Debug\netstandard2.0\CommandOperations.deps.json
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\CommandOperations\bin\Debug\netstandard2.0\CommandOperations.dll
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\CommandOperations\bin\Debug\netstandard2.0\CommandOperations.pdb
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\CommandOperations\obj\Debug\netstandard2.0\CommandOperations.csprojAssemblyReference.cache
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\CommandOperations\obj\Debug\netstandard2.0\CommandOperations.csproj.CoreCompileInputs.cache
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\CommandOperations\obj\Debug\netstandard2.0\CommandOperations.AssemblyInfoInputs.cache
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\CommandOperations\obj\Debug\netstandard2.0\CommandOperations.AssemblyInfo.cs
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\CommandOperations\obj\Debug\netstandard2.0\CommandOperations.dll
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\CommandOperations\obj\Debug\netstandard2.0\CommandOperations.pdb

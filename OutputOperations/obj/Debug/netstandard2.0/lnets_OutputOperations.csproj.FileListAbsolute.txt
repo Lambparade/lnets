@@ -1,0 +1,8 @@
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\OutputOperations\bin\Debug\netstandard2.0\lnets_OutputOperations.deps.json
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\OutputOperations\bin\Debug\netstandard2.0\lnets_OutputOperations.dll
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\OutputOperations\bin\Debug\netstandard2.0\lnets_OutputOperations.pdb
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\OutputOperations\obj\Debug\netstandard2.0\lnets_OutputOperations.csproj.CoreCompileInputs.cache
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\OutputOperations\obj\Debug\netstandard2.0\lnets_OutputOperations.AssemblyInfoInputs.cache
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\OutputOperations\obj\Debug\netstandard2.0\lnets_OutputOperations.AssemblyInfo.cs
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\OutputOperations\obj\Debug\netstandard2.0\lnets_OutputOperations.dll
+C:\Users\robinson.ZOLLER\PerProjects\lnets\lnets\OutputOperations\obj\Debug\netstandard2.0\lnets_OutputOperations.pdb
