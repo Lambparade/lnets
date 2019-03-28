@@ -2,7 +2,7 @@
 
 namespace lnets.CommandOperations
 {
-   public class Command
+   public class lnetsCommand
    {
       
    }

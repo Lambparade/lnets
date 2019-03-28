@@ -2,7 +2,7 @@
 
 namespace lnets.NetworkOperations
 {
-   public class Network
+   public class lnetsNetwork
    {
    }
 }
