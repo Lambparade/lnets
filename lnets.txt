@@ -19,7 +19,7 @@ Can also be used to load up all webportals found into a browser.
 
 -c Class: can check all Ip within a class range.
 
--o Output: detemines to output location of file
+-o Output: detemines to output location of file [csv]
 
 -p Preview: Opens all ip addresses in specified file
 
@@ -35,4 +35,6 @@ C# and .netcore
 
 {Workflow}**********************
 Send a http head request to a target Ip. If ip resloves, then save ip to a csv file.
+
+Maybe pull title from title tag in the head request.
 {Workflow}**********************
